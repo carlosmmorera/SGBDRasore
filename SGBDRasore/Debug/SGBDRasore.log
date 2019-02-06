@@ -1,0 +1,782 @@
+﻿  addCentre.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  addCiclo.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  addRama.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  addStudiesForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  addTypeOf.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  addUnivForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  CoincidenciasForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(120): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(526): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(627): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(412): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(89): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(725): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(726): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(747): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(59): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(90): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(115): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(240): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(246): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(250): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(253): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(260): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(274): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(308): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(344): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(366): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(367): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  ConsultaForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(52): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(1218): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  eliminaElemForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(120): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(526): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(627): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(412): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(89): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(725): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(726): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(747): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(59): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(90): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(115): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(240): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(246): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(250): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(253): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(260): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(274): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(308): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(344): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(366): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(367): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\eliminaelemform.h(67): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  errorDialog.cpp
+  gestorArchivos.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(29): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(124): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(159): warning C4018: '<': no coinciden signed/unsigned
+  GrabarEstudiante.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(412): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(120): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(526): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(627): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(89): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(725): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(726): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(747): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  GrabarResolucion.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(36): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(358): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(370): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  GrabarSolicitud.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(120): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(526): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(627): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  InformationDialog.cpp
+  modificarElem.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\modificarelem.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  MyForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(412): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(58): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(61): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(601): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(611): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(620): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(120): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(526): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarsolicitud.h(627): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(89): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(725): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(726): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(747): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(52): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(1218): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\modificarelem.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(59): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(90): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(115): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(240): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(246): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(250): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(253): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(260): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(274): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(308): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(344): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(366): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(367): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\eliminaelemform.h(67): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(36): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(358): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarresolucion.h(370): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  SICUEForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(39): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(412): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  TablaEstud.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tcentros.h(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudios.h(64): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(113): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tasignaturas.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(345): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(753): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(765): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(773): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(814): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(817): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(827): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(837): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(34): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(26): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(80): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveOpenFlux(std::ofstream &)' que se está compilando
+  warningBooleanDialog.cpp
+  Generando código...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  addCentre.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SGBDRasore.vcxproj -> C:\Users\user\source\repos\SGBDRasore\Debug\SGBDRasore.exe

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{1323E664-C602-420D-A90E-C692EA4C944D}</ProjectGuid>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>SGBDRasore</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>
+      </EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="addCentre.cpp" />
+    <ClCompile Include="addCiclo.cpp" />
+    <ClCompile Include="addRama.cpp" />
+    <ClCompile Include="addStudiesForm.cpp" />
+    <ClCompile Include="addTypeOf.cpp" />
+    <ClCompile Include="addUnivForm.cpp" />
+    <ClCompile Include="CoincidenciasForm.cpp" />
+    <ClCompile Include="ConsultaForm.cpp" />
+    <ClCompile Include="eliminaElemForm.cpp" />
+    <ClCompile Include="errorDialog.cpp" />
+    <ClCompile Include="gestorArchivos.cpp" />
+    <ClCompile Include="GrabarEstudiante.cpp" />
+    <ClCompile Include="GrabarResolucion.cpp" />
+    <ClCompile Include="GrabarSolicitud.cpp" />
+    <ClCompile Include="InformationDialog.cpp" />
+    <ClCompile Include="modificarElem.cpp" />
+    <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="SICUEForm.cpp" />
+    <ClCompile Include="TablaEstud.cpp" />
+    <ClCompile Include="warningBooleanDialog.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addCentre.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="addCiclo.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="addRama.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="addStudiesForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="addTypeOf.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="addUnivForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BaseDatos.h" />
+    <ClInclude Include="Cifr.h" />
+    <ClInclude Include="CoincidenciasForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Conjunto.h" />
+    <ClInclude Include="ConsultaForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="eliminaElemForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="errorDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Fecha.h" />
+    <ClInclude Include="gestorArchivos.h" />
+    <ClInclude Include="GrabarEstudiante.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GrabarResolucion.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GrabarSolicitud.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="InformationDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="modificarElem.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="SICUEForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Tabla.h" />
+    <ClInclude Include="TablaCifr.h" />
+    <ClInclude Include="TablaEstud.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="TAsignaturas.h" />
+    <ClInclude Include="TCentros.h" />
+    <ClInclude Include="TEstudiantes.h" />
+    <ClInclude Include="TEstudios.h" />
+    <ClInclude Include="TResoluciones.h" />
+    <ClInclude Include="TSICUE.h" />
+    <ClInclude Include="TSolicitudes.h" />
+    <ClInclude Include="warningBooleanDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addCentre.resx">
+      <DependentUpon>addCentre.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addCiclo.resx">
+      <DependentUpon>addCiclo.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addRama.resx">
+      <DependentUpon>addRama.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addStudiesForm.resx">
+      <DependentUpon>addStudiesForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addTypeOf.resx">
+      <DependentUpon>addTypeOf.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addUnivForm.resx">
+      <DependentUpon>addUnivForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoincidenciasForm.resx">
+      <DependentUpon>CoincidenciasForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaForm.resx">
+      <DependentUpon>ConsultaForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminaElemForm.resx">
+      <DependentUpon>eliminaElemForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="errorDialog.resx">
+      <DependentUpon>errorDialog.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabarEstudiante.resx">
+      <DependentUpon>GrabarEstudiante.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabarResolucion.resx">
+      <DependentUpon>GrabarResolucion.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabarSolicitud.resx">
+      <DependentUpon>GrabarSolicitud.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationDialog.resx">
+      <DependentUpon>InformationDialog.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarElem.resx">
+      <DependentUpon>modificarElem.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm.en.resx">
+      <DependentUpon>MyForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm.es.resx">
+      <DependentUpon>MyForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm.resx">
+      <DependentUpon>MyForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SICUEForm.resx">
+      <DependentUpon>SICUEForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TablaEstud.resx">
+      <DependentUpon>TablaEstud.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="warningBooleanDialog.resx">
+      <DependentUpon>warningBooleanDialog.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="asig.rasr" />
+    <None Include="centros.rasr" />
+    <None Include="ciclos.rasr" />
+    <None Include="cifr.cifrex" />
+    <None Include="cifr_cp.cifrex" />
+    <None Include="doc.rasr" />
+    <None Include="estud.rasr" />
+    <None Include="estudcp.rasr" />
+    <None Include="estudios.rasr" />
+    <None Include="estud_seccp.rasr" />
+    <None Include="provin.rasr" />
+    <None Include="ramas.rasr" />
+    <None Include="recur.rasr" />
+    <None Include="resol.rasr" />
+    <None Include="resol_cp.rasr" />
+    <None Include="resol_seccp.rasr" />
+    <None Include="sec_cp.cifrex" />
+    <None Include="sicue.rasr" />
+    <None Include="sicuecp.rasr" />
+    <None Include="sicue_seccp.rasr" />
+    <None Include="solic.rasr" />
+    <None Include="solic_cp.rasr" />
+    <None Include="solic_seccp.rasr" />
+    <None Include="typeres.rasr" />
+    <None Include="typesol.rasr" />
+    <None Include="univ.rasr" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

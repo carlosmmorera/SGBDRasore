@@ -1,0 +1,117 @@
+  SGBDRasore.addCentre.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.addCiclo.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.addRama.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.addStudiesForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.addTypeOf.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.addUnivForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.CoincidenciasForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.ConsultaForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.eliminaElemForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.errorDialog.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.GrabarEstudiante.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.GrabarResolucion.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.GrabarSolicitud.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.InformationDialog.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.modificarElem.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.MyForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.SICUEForm.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.TablaEstud.resources - Embedded, ContainedInManifestFile, 
+  SGBDRasore.warningBooleanDialog.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly SGBDRasore, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SGBDRasore.InformationDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.warningBooleanDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.errorDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addCentre: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, UInt32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addCiclo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addRama: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addStudiesForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std._List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Estudios_valor> > > >*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Boolean*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*, UInt32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addTypeOf: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.addUnivForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.GrabarSolicitud: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std._List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Solicitud_valor> > > >*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Boolean*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.SICUEForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.GrabarEstudiante: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std._List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > const \,Estudiante_valor> > > >*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Boolean*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.CoincidenciasForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, ELIM_VAL, std.vector<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > const \,Estudiante_valor> > > >\,std::allocator<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > const \,Estudiante_valor> > > > > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, ELIM_VAL, std.vector<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Solicitud_valor> > > >\,std::allocator<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Solicitud_valor> > > > > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BaseDatos*, Boolean*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, ELIM_VAL, std.vector<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Estudios_valor> > > >\,std::allocator<std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned int const \,Estudios_valor> > > > > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.TablaEstud: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.ConsultaForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.eliminaElemForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.GrabarResolucion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.modificarElem: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BaseDatos*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SGBDRasore.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

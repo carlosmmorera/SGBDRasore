@@ -1,0 +1,1080 @@
+﻿  addCentre.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  addCiclo.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  addRama.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  addStudiesForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  addTypeOf.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  addUnivForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  CoincidenciasForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(49): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(74): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  ConsultaForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(1218): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  eliminaElemForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(49): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(74): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  errorDialog.cpp
+  gestorArchivos.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(29): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\gestorarchivos.cpp(69): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  GrabarEstudiante.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  GrabarResolucion.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  GrabarSolicitud.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  InformationDialog.cpp
+  modificarElem.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  MyForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addcentre.h(376): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addciclo.h(143): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addrama.h(144): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addstudiesform.h(523): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addtypeof.h(157): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\grabarestudiante.h(676): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\consultaform.h(1218): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(49): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(74): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\coincidenciasform.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  SICUEForm.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\addunivform.h(146): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\sicueform.h(371): warning C4101: 'e': variable local sin referencia
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  TablaEstud.cpp
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(63): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\cifr.h(126): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(76): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\testudiantes.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(105): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(130): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(151): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsolicitudes.h(176): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(135): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tresoluciones.h(157): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(64): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(86): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(70): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(207): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(208): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(217): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(218): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(221): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(222): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(225): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(226): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(231): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(232): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(235): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(236): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(239): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\basedatos.h(240): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(82): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(73): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::secSave(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(117): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::secSave(void)' que se está compilando
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tsicue.h(49): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaCifr<std::string,SICUE_valor>' que se está compilando
+c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(54): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(48): note: durante la compilación de la función miembro de plantilla clase de 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)'
+  c:\users\user\source\repos\sgbdrasore\sgbdrasore\tablacifr.h(121): note: vea la referencia a la creación de instancias de plantilla de función 'void TablaCifr<std::string,SICUE_valor>::saveTable(void)' que se está compilando
+  warningBooleanDialog.cpp
+  Generando código...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  addCentre.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SGBDRasore.vcxproj -> C:\Users\user\source\repos\SetupSGBD\x64\Debug\SGBDRasore.exe
